@@ -1,0 +1,1 @@
+Ecommerce API project in Express.js with an MVC structure. This project includes CRUD operations for human categories (women, men, children), cloth categories (shirts, pants, dresses, blazers), and quality categories (cotton, silk). Product CRUD operations feature multer file uploads for product images (min 3, max 3). All operations are secured with token authentication.
